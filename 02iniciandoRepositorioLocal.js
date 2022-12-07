@@ -17,6 +17,6 @@ no terminal na pasta do projeto digitar o código abaixo.
 ou
 
         git status 
-        git commit -am "Criando Projeto"  //adiciona todas as alterações e realiza o commit.
+        git commit -am "Criando Projeto"  //adiciona todas as alterações e realiza o commit (quando arq. já está monitorado).
 
 ////////////////////////////////////////////////////////////////*/
