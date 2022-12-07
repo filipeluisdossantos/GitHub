@@ -4,7 +4,7 @@
 caso quisermos verificar o histórico dos commit:
 
         git log
-
+        q     //para sair do log
 
 /////////////////////////////////////////////////////////////////
 
@@ -16,7 +16,7 @@ Consultar quantos branchs temos no projeto.
 Voltar para um commit anterior.
 
         git log    //pegar o id do commit que queremos voltar.
-        
+        q          //para sair do log
         
         git reset --soft [colar id commit] //voltar para commit especif. mantendo as alterações atuais, necess. dar novo commit
 

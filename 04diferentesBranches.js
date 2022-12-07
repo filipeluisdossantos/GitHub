@@ -14,7 +14,7 @@ Podemos alterar os arquivos e dar commit normalmente que irá salvar na branch a
         git commit -am "alteração bla bla"
 
         git log  //mostra os commits
-
+        q        //para sair do log
 
 Voltar para branch principal:
         
