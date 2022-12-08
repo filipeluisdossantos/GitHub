@@ -1,8 +1,8 @@
-/*Criando nova branch
+/*Criando nova branch (versão paralela).
 
         git branch    // informa em qual branch estamos, o que tiver * é onde estamos.
 
-        git branch [nome]  // cria uma nova branch e copia tudo da branch principal.
+        git branch [nome]  // cria uma copia da branch Principal gerando uma nova branch paralela.
 
         git checkout [nome]   //muda para a branch nome.
 

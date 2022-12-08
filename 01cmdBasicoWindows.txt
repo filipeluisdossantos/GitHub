@@ -16,6 +16,10 @@ Criar um diretório:
 
         mkdir [nomePasta]
 
+Limpar console:
+
+        cls
+
 
 ////////////////////////////////////////////////////////////*/
 

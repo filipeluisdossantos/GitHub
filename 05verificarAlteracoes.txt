@@ -1,0 +1,20 @@
+/////////////////////////////////////////////////////
+
+Como saber o que foi modificado no seu projeto:
+
+        git diff
+
+
+Como saber qual arquivo foi alterado:
+
+        git diff --name-only
+
+
+como saber o que foi aterado em um arquivo específico:
+
+        git diff [nomearquivo]
+
+
+como voltar as alterações de um arquivo da mesma branch antes do commit:
+
+        git checkout HEAD -- [nomeArquivo]

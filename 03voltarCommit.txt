@@ -1,14 +1,13 @@
 /*////////////////////////////////////////////////////////////////
 
-
-caso quisermos verificar o histórico dos commit:
+ Verificar o histórico dos commits:
 
         git log
         q     //para sair do log
 
 /////////////////////////////////////////////////////////////////
 
-Consultar quantos branchs temos no projeto.
+Consultar quantos branchs temos no projeto:
 
         git branch    // o que tiver o * é onde estamos atualmente.
 
