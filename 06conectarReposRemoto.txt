@@ -1,0 +1,7 @@
+Podemos conectar o git ao gitHub de várias formas:
+
+
+ *  Pela linha de comando... (instalar cli do gitHub em: https://cli.github.com/)
+
+
+*  Através de uma interface (baixar e instalar o github Desktop em: https://desktop.github.com/)

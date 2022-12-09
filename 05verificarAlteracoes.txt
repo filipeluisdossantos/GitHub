@@ -5,7 +5,7 @@ Como saber o que foi modificado no seu projeto:
         git diff
 
 
-Como saber qual arquivo foi alterado:
+Como saber qual o nome do arquivo que foi alterado:
 
         git diff --name-only
 
