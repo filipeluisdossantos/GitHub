@@ -1,0 +1,12 @@
+////////////////////////////////////////////////
+
+Entrar na pasta do repositório local:
+
+        cd [repositorioLocal]
+
+
+Digitar os comandos:
+
+        git push origin main
+
+

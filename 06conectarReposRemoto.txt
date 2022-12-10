@@ -1,7 +1,42 @@
 Podemos conectar o git ao gitHub de várias formas:
 
 
- *  Pela linha de comando... (instalar cli do gitHub em: https://cli.github.com/)
-
-
 *  Através de uma interface (baixar e instalar o github Desktop em: https://desktop.github.com/)
+
+
+* Gerando uma chave SSH na minha máquina:
+
+Abra o Git Bash e digite:
+
+
+        ssh-keygen -t ed25519 -C "your_email@example.com"
+
+        dar [enter]
+        
+        irá pedir senha para chave pode dar [enter]
+
+
+abrir o arquivo SSH e copiar o código da chave publica
+
+
+Abri o GitHub em perfil > config > SSH e GPG keys:
+
+        colar a chave publica > Add
+
+
+Pronto chave cadastrada agora é só iniciar os pushs
+
+
+Criar repositorio loca e remoto:
+
+
+        echo "nomerepositorio" >> README.md
+        git init
+        git add README.md
+        git commit -m "criando repositorio"
+        git remote add origin [ url ex:https://github.com/filipeluisdossantos/[nomerepositorio].git ]
+        git push -u origin main
+
+
+
+
