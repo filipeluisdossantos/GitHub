@@ -1,0 +1,11 @@
+///////////////Utilizando o .gitignore///////////////////////////
+
+criar um arquivo no projeto com nome .gitignore
+
+colocar dentro o nome dos arquivos que queremos ocultar no repositório
+
+ex:  
+
+*.txt                           //oculta todos os arquivos do tipo .txt
+*.sql                          //oculta todos os arquivos do tipo .sql
+nomepasta/                    //oculta todos os arquivos dessa pasta
