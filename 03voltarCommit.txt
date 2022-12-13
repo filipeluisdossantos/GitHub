@@ -16,11 +16,18 @@ Voltar para um commit anterior.
 
         git log    //pegar o id do commit que queremos voltar.
         q          //para sair do log
+
+
+* Indicado para resolver problemas no código na hora:        
         
         git reset --soft [colar id commit] //voltar para commit especif. mantendo as alterações atuais, necess. dar novo commit
 
 ou
 
-        git reset --hard [colar id commit]   //voltar para o commit especificado resetando todas as alterações do atual.
+* Indicado para resolver problemas no código em outro momento:
+
+
+        git revert --no-edit [colar id commit]     //retorna pra versão anterior e cria um novo commit.
+        git reset --hard [colar id commit]   //voltar para o commit (quebrado) resetando todas as alterações do atual.
 
 */
