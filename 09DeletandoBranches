@@ -1,0 +1,20 @@
+////// Deletando Branch Remoto  //////
+
+        git branch     //mostrar em qual branch estamos
+
+        git checkout [nome]   //Vai para a branch [nome]
+
+        git push origin :[nome]  //Vai remover o repositorio [nome] Remoto
+
+
+
+
+/////// Deletando Branch Local  ///////
+
+Para deletar um branch precisamos sair dele.
+
+        git branch
+
+        git checkout main
+
+        git branch -D [nome]    //vai deletar no repositorio local [nome]
