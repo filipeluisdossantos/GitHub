@@ -1,0 +1,3 @@
+////// Puxando arquivos do repositório remoto //////
+
+        git pull origin main        //em trabalho em equipe sempre dar um pull e depois sim pode dar um push para subir arquivo
