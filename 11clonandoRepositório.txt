@@ -1,0 +1,4 @@
+////// clonando Repositório Remoto ///////
+
+    cd [pasta destino]
+    git clone [url do Repositório]
