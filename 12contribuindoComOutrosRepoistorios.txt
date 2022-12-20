@@ -1,0 +1,36 @@
+////// Contribuindo com outros Repositórios  ////
+
+
+* Após localizar o projeto que queremos no Github:
+
+
+    - clicar em FORK
+
+
+* Após o fork copiar a [url] do fork no seu github
+
+
+- abri o git para realizar um clone:
+
+    git clone [url]
+
+
+* após realizar alterações:
+
+    git add -A 
+    git commit -m ""
+    git remote -v      //para verificar qual servidor remoto
+    git push origin [nomebranch]
+
+
+
+* Entrar no gitgub no projeto e clicar:
+
+    - New pull request
+
+    - Create pull request
+
+
+    -Colocar os comentarios das alterações
+
+    -Crate pull request
