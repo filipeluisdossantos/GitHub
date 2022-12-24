@@ -1,3 +1,1 @@
-# GitHub
-
-Aqui você encontrará comandos utilizados no Git/GitHub!
+Anotações do Curso de Git e GitHub.
