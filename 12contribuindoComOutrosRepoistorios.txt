@@ -24,7 +24,7 @@
 
 
 
-* Entrar no gitgub no projeto e clicar:
+* Entrar no gitHub no projeto e clicar:
 
     - New pull request
 
